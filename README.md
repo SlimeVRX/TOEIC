@@ -1,1 +1,53 @@
 # TOEIC-TARGET-700
+
+- [x] Bài 1 – Từ loại
+- [ ] Bài 2 – Cấu trúc chủ ngữ
+- [ ] Bài 2A – Bài tập phân tích cấu trúc chủ ngữ
+- [ ] Bài 2B – Bài tập phân tích cấu trúc chủ ngữ
+- [ ] Bài 2C – Bài tập phân tích cấu trúc chủ ngữ
+- [ ] Bài 2D – Bài tập phân tích cấu trúc chủ ngữ
+- [ ] Bài 2E – Bài tập phân tích cấu trúc chủ ngữ
+- [ ] Bài 3 – Cấu trúc vị ngữ
+- [ ] Bài 3A – Bài tập phân tích cấu trúc vị ngữ
+- [ ] Bài 3B – Bài tập phân tích cấu trúc vị ngữ
+- [ ] Bài 3C – Bài tập phân tích cấu trúc vị ngữ
+- [ ] Bài 3D – Bài tập phân tích cấu trúc vị ngữ
+- [ ] Bài 3E – Bài tập phân tích cấu trúc vị ngữ
+- [ ] Bài 4 – Dấu hiệu nhận biết vị ngữ (trợ động từ)
+- [ ] Bài 4A – Bài tập trợ động từ
+- [ ] Bài 4B – Bài tập trợ động từ
+- [ ] Bài 1A – Bài tập từ loại
+- [ ] Bài 1B – Bài tập từ loại
+- [ ] Bài 1C – Bài tập từ loại
+- [ ] Bài 1D – Bài tập từ loại
+- [ ] Bài 1E – Bài tập từ loại
+- [ ] Bài 1F – Bài tập từ loại
+- [ ] Bài 1G – Bài tập từ loại
+- [ ] Bài 1H – Bài tập từ loại
+- [ ] Bài 5 – Các thì trong tiếng Anh
+- [ ] Bài 5A – Bài tập các thì trong tiếng Anh
+- [ ] Bài 5B – Bài tập các thì trong tiếng Anh
+- [ ] Bài 5C – Bài tập các thì trong tiếng Anh
+- [ ] Bài 5D – Bài tập các thì trong tiếng Anh
+- [ ] Bài 6.1 Liên từ – Giới từ phần 1
+- [ ] Bài 6.2 Liên từ – Giới từ phần 2
+- [ ] Bài 6A – Bài tập liên từ – giới từ
+- [ ] Bài 6B – Bài tập liên từ – giới từ
+- [ ] Bài 6C – Bài tập liên từ – giới từ
+- [ ] Bài 6D – Bài tập liên từ – giới từ
+- [ ] Bài 6E – Bài tập liên từ – giới từ
+- [ ] Bài 6F – Bài tập liên từ – giới từ
+- [ ] Bài 7 – Chủ động – Bị động
+- [ ] Bài 7A – Bài tập chủ động – bị động
+- [ ] Bài 7B – Bài tập chủ động – bị động
+- [ ] Bài 7C – Bài tập chủ động – bị động
+- [ ] Bài 7D – Bài tập chủ động – bị động
+- [ ] Bài 7E – Bài tập chủ động – bị động
+- [ ] Bài 7F – Bài tập chủ động – bị động
+- [ ] Bài 8 – Mệnh đề quan hệ
+- [ ] Bài 8A – Bài tập mệnh đề quan hệ
+- [ ] Bài 8B – Bài tập mệnh đề quan hệ
+- [ ] Bài 8C – Bài tập mệnh đề quan hệ
+- [ ] Bài 8D – Bài tập mệnh đề quan hệ
+- [ ] Bài 8E – Bài tập mệnh đề quan hệ
+- [ ] Bài 8F – Bài tập mệnh đề quan hệ
